@@ -1,6 +1,8 @@
 import pytube
 import os
-from moviepy import *
+from moviepy.editor import VideoFileClip
+from moviepy.editor import AudioFileClip
+from moviepy.editor import CompositeAudioClip
 from tkinter import *
 from PIL import ImageTk, Image
 
