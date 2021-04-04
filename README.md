@@ -1,2 +1,0 @@
-# HoboTube
-Video downloader
